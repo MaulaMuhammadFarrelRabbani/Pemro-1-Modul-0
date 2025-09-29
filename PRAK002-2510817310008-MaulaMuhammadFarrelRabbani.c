@@ -5,5 +5,4 @@ int main(){
     printf("Selamat Siang, Maula Muhammad Farrel Rabbani\n");
     printf("Selamat Malam, Maula Muhammad Farrel Rabbani\n");
     return 0;
-
 }
